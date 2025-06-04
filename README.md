@@ -1,5 +1,5 @@
 ### ▶️ Try the code online:
-[Run in Replit](https://replit.com/) *(https://replit.com/@hazerstore0/Library-Management-System)*
+[Run in Replit](https://replit.com/@hazerstore0/LibraryManagementSystem) 
 
 ---
 📚 Library Management System
