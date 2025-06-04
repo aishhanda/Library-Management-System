@@ -22,7 +22,7 @@ def run_csv():
         try:
             with open(file_name, mode='x', newline = '') as file:
                 writer = csv.writer(file)
-                writer.writerow(["Book Name", "Student Name", "class", "Returned/Borrowed", "Date"])
+                writer.writerow(["Book Name", "Student Name", "class", "Returned/Borrowed", "Date/Time"])
         except FileExistsError:
             pass
 
