@@ -75,7 +75,7 @@ def display_books():
 def exit_():
     print("\n✅ All actions completed.")
     print(f"📁 Data saved successfully in:\n👉 {file_path}")
-    print(f"'ctrl+click' on the url to open file or download file and upload at excel to view the record")
+    print(f"'ctrl+click' on the url to open file or download file(RIGHT CLICK ON LIBRARY.CSV TO DOWNLOAD) and upload at excel:https://excel.cloud.microsoft/ to view the record")
 
 
 
